@@ -1,5 +1,12 @@
 # Toxic_Hate_Speech_Classification
 
+### Project Workflows
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
 
 ### Steps to run:
 
