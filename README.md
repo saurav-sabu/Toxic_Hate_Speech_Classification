@@ -1,7 +1,7 @@
 # Toxic_Hate_Speech_Classification
 
 
-Step - 1:
+### Steps to run:
 
 ```bash
 conda create -p venv python=3.8 -y
@@ -13,4 +13,11 @@ conda activate venv/
 
 ```bash
 pip install -r requirements.txt
+```
+
+### GCloud CLI
+https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
+
+```bash
+gcloud init
 ```
